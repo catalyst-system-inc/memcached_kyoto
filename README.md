@@ -1,1 +1,1 @@
-# memcatch_kyoto
+# memcached_kyoto
